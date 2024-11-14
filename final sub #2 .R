@@ -15,6 +15,7 @@ library(readr) # For read_tsv()
 library(seqinr)
 library(Biostrings)
 library(ggtree)
+library(DECIPHER)
 
 # Data Loading and Initial Filtering -------------------------------------------
 #_ BOLD Data Filtering ----
